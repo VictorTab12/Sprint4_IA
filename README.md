@@ -26,3 +26,6 @@ API de Pesquisa: SerpAPI (Google Shopping)
 
 Link do video:
 https://youtu.be/xF-zvT1buic
+
+Link do github:
+https://github.com/VictorTab12/Sprint4_IA.git
